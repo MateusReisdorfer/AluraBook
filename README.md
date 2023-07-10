@@ -1,2 +1,3 @@
 # AluraBook
-Projeto feito durante o curso de responsividade da alura
+
+Projeto feito com HTML e CSS da página da alurabook
